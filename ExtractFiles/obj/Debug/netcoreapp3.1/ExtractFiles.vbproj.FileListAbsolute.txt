@@ -1,0 +1,20 @@
+F:\zbr Clientes\ExtractFiles\bin\Debug\netcoreapp3.1\ExtractFiles.exe
+F:\zbr Clientes\ExtractFiles\bin\Debug\netcoreapp3.1\ExtractFiles.deps.json
+F:\zbr Clientes\ExtractFiles\bin\Debug\netcoreapp3.1\ExtractFiles.runtimeconfig.json
+F:\zbr Clientes\ExtractFiles\bin\Debug\netcoreapp3.1\ExtractFiles.runtimeconfig.dev.json
+F:\zbr Clientes\ExtractFiles\bin\Debug\netcoreapp3.1\ExtractFiles.dll
+F:\zbr Clientes\ExtractFiles\bin\Debug\netcoreapp3.1\ExtractFiles.pdb
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\netcoreapp3.1\ExtractFiles.exe
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\netcoreapp3.1\ExtractFiles.deps.json
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\netcoreapp3.1\ExtractFiles.runtimeconfig.json
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\netcoreapp3.1\ExtractFiles.runtimeconfig.dev.json
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\netcoreapp3.1\ExtractFiles.dll
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\netcoreapp3.1\ExtractFiles.pdb
+F:\zbr Clientes\ExtractFiles\obj\Debug\netcoreapp3.1\ExtractFiles.vbproj.AssemblyReference.cache
+F:\zbr Clientes\ExtractFiles\obj\Debug\netcoreapp3.1\ExtractFiles.GeneratedMSBuildEditorConfig.editorconfig
+F:\zbr Clientes\ExtractFiles\obj\Debug\netcoreapp3.1\ExtractFiles.AssemblyInfoInputs.cache
+F:\zbr Clientes\ExtractFiles\obj\Debug\netcoreapp3.1\ExtractFiles.AssemblyInfo.vb
+F:\zbr Clientes\ExtractFiles\obj\Debug\netcoreapp3.1\ExtractFiles.vbproj.CoreCompileInputs.cache
+F:\zbr Clientes\ExtractFiles\obj\Debug\netcoreapp3.1\ExtractFiles.dll
+F:\zbr Clientes\ExtractFiles\obj\Debug\netcoreapp3.1\ExtractFiles.pdb
+F:\zbr Clientes\ExtractFiles\obj\Debug\netcoreapp3.1\ExtractFiles.genruntimeconfig.cache

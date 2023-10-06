@@ -1,0 +1,18 @@
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\bin\Debug\net5.0-windows\Update JJRNINFO.exe
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\bin\Debug\net5.0-windows\Update JJRNINFO.deps.json
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\bin\Debug\net5.0-windows\Update JJRNINFO.runtimeconfig.json
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\bin\Debug\net5.0-windows\Update JJRNINFO.runtimeconfig.dev.json
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\bin\Debug\net5.0-windows\Update JJRNINFO.dll
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\bin\Debug\net5.0-windows\ref\Update JJRNINFO.dll
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\bin\Debug\net5.0-windows\Update JJRNINFO.pdb
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\obj\Debug\net5.0-windows\Update JJRNINFO.vbprojAssemblyReference.cache
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\obj\Debug\net5.0-windows\Update_JJRNINFO.Form1.resources
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\obj\Debug\net5.0-windows\Update JJRNINFO.vbproj.GenerateResource.cache
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\obj\Debug\net5.0-windows\Update JJRNINFO.GeneratedMSBuildEditorConfig.editorconfig
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\obj\Debug\net5.0-windows\Update JJRNINFO.AssemblyInfoInputs.cache
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\obj\Debug\net5.0-windows\Update JJRNINFO.AssemblyInfo.vb
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\obj\Debug\net5.0-windows\Update JJRNINFO.vbproj.CoreCompileInputs.cache
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\obj\Debug\net5.0-windows\Update JJRNINFO.dll
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\obj\Debug\net5.0-windows\ref\Update JJRNINFO.dll
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\obj\Debug\net5.0-windows\Update JJRNINFO.pdb
+F:\zbr Clientes\Update JJRNINFO\Update JJRNINFO\obj\Debug\net5.0-windows\Update JJRNINFO.genruntimeconfig.cache

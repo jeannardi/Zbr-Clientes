@@ -1,0 +1,87 @@
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Zbr Controle de Clientes.exe.config
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Zbr Controle de Clientes.exe
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Zbr Controle de Clientes.pdb
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Zbr Controle de Clientes.xml
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\PdfSharp.Charting.dll
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\PdfSharp.dll
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\PdfSharp.xml
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\PdfSharp.Charting.xml
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\de\PdfSharp.resources.dll
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\de\PdfSharp.Charting.resources.dll
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmaddmes.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmBusca.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmEditarRecibo.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.FrmEquipamentos.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmEquipamentosadd.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmFiltroPagamentos.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmLogin.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmMensal.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.FrmMesEdit.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmModelPag.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.FrmMysql.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmNotifica.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmNovoRecibo.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmPrincipal.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmRecibos.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmSlash.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmTrocaSenha.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmUpdate.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmUserAdmin.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.Resources.resources
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.vbproj.GenerateResource.cache
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.vbproj.CoreCompileInputs.cache
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.vbproj.CopyComplete
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.exe
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.xml
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.pdb
+F:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.vbproj.AssemblyReference.cache
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Zbr Controle de Clientes.exe.config
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Zbr Controle de Clientes.exe
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Zbr Controle de Clientes.pdb
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Zbr Controle de Clientes.xml
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\MySql.Data.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\PdfSharp.Charting.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\PdfSharp.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Google.Protobuf.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\ZstdNet.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\BouncyCastle.Crypto.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Ubiety.Dns.Core.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\System.Memory.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\System.Buffers.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\K4os.Compression.LZ4.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\K4os.Hash.xxHash.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\System.Numerics.Vectors.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\MySql.Data.xml
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\PdfSharp.xml
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\PdfSharp.Charting.xml
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\de\PdfSharp.resources.dll
+G:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\de\PdfSharp.Charting.resources.dll
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.vbproj.AssemblyReference.cache
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.exe.config
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmaddmes.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmBusca.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmEditarRecibo.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.FrmEquipamentos.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmEquipamentosadd.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmFiltroPagamentos.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmLogin.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmMensal.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.FrmMesEdit.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmModelPag.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.FrmMysql.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmNotifica.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmNovoRecibo.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmPrincipal.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmRecibos.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmSlash.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmTrocaSenha.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmUpdate.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.frmUserAdmin.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr_Controle_de_Clientes.Resources.resources
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.vbproj.GenerateResource.cache
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.vbproj.CoreCompileInputs.cache
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.vbproj.CopyComplete
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.exe
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.xml
+G:\zbr Clientes\Zbr Controle de Clientes\obj\Debug\Zbr Controle de Clientes.pdb

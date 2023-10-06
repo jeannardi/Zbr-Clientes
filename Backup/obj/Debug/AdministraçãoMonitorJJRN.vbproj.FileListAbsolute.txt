@@ -1,0 +1,136 @@
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.exe.config
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.exe
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.pdb
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.xml
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\bin\Debug\MySql.Data.dll
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\bin\Debug\MySqlBackup.dll
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\bin\Debug\MySql.Data.xml
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.exe.config
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.exe
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.pdb
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.xml
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmAdicionarControles.resources
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmAdicionaSetor.resources
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBackup.resources
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBuscaClientes.resources
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBuscaEvento.resources
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmCliente.resources
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmDefineMapa.resources
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmEventos.resources
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmInicio.resources
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.Resources.resources
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmMysqlMSG.resources
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbproj.GenerateResource.Cache
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.exe
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.xml
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.pdb
+C:\Users\Gpm\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbprojResolveAssemblyReference.cache
+C:\Users\Public\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.exe.config
+C:\Users\Public\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.exe
+C:\Users\Public\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.pdb
+C:\Users\Public\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.xml
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbprojResolveAssemblyReference.cache
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmAdicionarControles.resources
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmAdicionaSetor.resources
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBackup.resources
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBuscaClientes.resources
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBuscaEvento.resources
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmCliente.resources
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmDefineMapa.resources
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmEventos.resources
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmInicio.resources
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.Resources.resources
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmMysqlMSG.resources
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbproj.GenerateResource.Cache
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.exe
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.xml
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.pdb
+C:\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmImprimir.resources
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.exe.config
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.exe
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.pdb
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.xml
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbprojAssemblyReference.cache
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmAdicionarControles.resources
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmAdicionaSetor.resources
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBackup.resources
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBuscaClientes.resources
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBuscaEvento.resources
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmCliente.resources
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmDefineMapa.resources
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmEventos.resources
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmImprimir.resources
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmInicio.resources
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.Resources.resources
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmMysqlMSG.resources
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbproj.GenerateResource.cache
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbproj.CoreCompileInputs.cache
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbproj.CopyComplete
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.exe
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.xml
+C:\Windows.old\Users\Public\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.pdb
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.exe.config
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.exe
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.pdb
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.xml
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbprojAssemblyReference.cache
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmAdicionarControles.resources
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmAdicionaSetor.resources
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBackup.resources
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBuscaClientes.resources
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBuscaEvento.resources
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmCliente.resources
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmDefineMapa.resources
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmEventos.resources
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmImprimir.resources
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmInicio.resources
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.Resources.resources
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmMysqlMSG.resources
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbproj.GenerateResource.cache
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbproj.CoreCompileInputs.cache
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbproj.CopyComplete
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.exe
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.xml
+C:\Users\Jean NOT\Documents\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.pdb
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.exe.config
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.exe
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.pdb
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\MonitorJJRN\bin\Debug\AdministraçãoMonitorJJRN.xml
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbprojAssemblyReference.cache
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmAdicionarControles.resources
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmAdicionaSetor.resources
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBackup.resources
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBuscaClientes.resources
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmBuscaEvento.resources
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmCliente.resources
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmDefineMapa.resources
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmEventos.resources
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmImprimir.resources
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmInicio.resources
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.Resources.resources
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.frmMysqlMSG.resources
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbproj.GenerateResource.cache
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbproj.CoreCompileInputs.cache
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.vbproj.CopyComplete
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.exe
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.xml
+C:\Users\Jean NOT\Desktop\MonitorJJRN\MonitorJJRN\AdministraçãoMonitorJJRN\obj\Debug\AdministraçãoMonitorJJRN.pdb
+F:\zbr Clientes\MonitorJJRN\bin\Debug\Backup.exe.config
+F:\zbr Clientes\MonitorJJRN\bin\Debug\Backup.exe
+F:\zbr Clientes\MonitorJJRN\bin\Debug\Backup.pdb
+F:\zbr Clientes\MonitorJJRN\bin\Debug\Backup.xml
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Backup.exe.config
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Backup.exe
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Backup.pdb
+F:\zbr Clientes\Zbr Controle de Clientes\bin\Debug\Backup.xml
+F:\zbr Clientes\Backup\obj\Debug\AdministraçãoMonitorJJRN.vbproj.AssemblyReference.cache
+F:\zbr Clientes\Backup\obj\Debug\Backup.exe.config
+F:\zbr Clientes\Backup\obj\Debug\Backup.frmBackup.resources
+F:\zbr Clientes\Backup\obj\Debug\Backup.Resources.resources
+F:\zbr Clientes\Backup\obj\Debug\Backup.frmMysqlMSG.resources
+F:\zbr Clientes\Backup\obj\Debug\AdministraçãoMonitorJJRN.vbproj.GenerateResource.cache
+F:\zbr Clientes\Backup\obj\Debug\AdministraçãoMonitorJJRN.vbproj.CoreCompileInputs.cache
+F:\zbr Clientes\Backup\obj\Debug\AdministraçãoMonitorJJRN.vbproj.CopyComplete
+F:\zbr Clientes\Backup\obj\Debug\Backup.exe
+F:\zbr Clientes\Backup\obj\Debug\Backup.xml
+F:\zbr Clientes\Backup\obj\Debug\Backup.pdb

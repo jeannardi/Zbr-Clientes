@@ -1,0 +1,98 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Zbr Controle de Clientes
+</name>
+</assembly>
+<members>
+<member name="T:Zbr_Controle_de_Clientes.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.contactlist_theuser_802">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.dollar_folder_icon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.FormLogin">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.iconfinder_Add_Male_User_49576">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.iconfinder_search_magnifying_glass_find_103857">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.iconfinder_Tick_Mark_Dark_1398912">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.notification">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.user_add">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.user_add1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.user_view">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.user_view1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Zbr_Controle_de_Clientes.My.Resources.Resources.user_view2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Zbr_Controle_de_Clientes.recibo.getDecimal(System.Byte)">
+ <summary>
+ Função auxiliar - Parte decimal a converter
+ </summary>
+ <param name="number">Parte decimal a converter</param>
+</member>
+<member name="M:Zbr_Controle_de_Clientes.recibo.getInteger(System.Decimal)">
+ <summary>
+ Função auxiliar - Parte inteira a converter
+ </summary>
+ <param name="number">Parte inteira a converter</param>
+</member>
+</members>
+</doc>
